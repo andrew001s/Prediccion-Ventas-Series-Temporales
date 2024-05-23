@@ -1,0 +1,142 @@
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\appsettings.json
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.exe
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.deps.json
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.runtimeconfig.json
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.pdb
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.AssemblyInfo.cs
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.APIPredicciones.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.build.APIPredicciones.props
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIPredicciones.props
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIPredicciones.props
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\scopedcss\bundle\APIPredicciones.styles.css
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.csproj.CopyComplete
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\refint\APIPredicciones.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.pdb
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.genruntimeconfig.cache
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\obj\Debug\net6.0\ref\APIPredicciones.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\DnsClient.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Snappier.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\andre\OneDrive - Universidad Central del Ecuador\APIPredicciones\APIPredicciones\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\appsettings.json
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.exe
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.deps.json
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.runtimeconfig.json
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.pdb
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\DnsClient.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Snappier.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.csproj.AssemblyReference.cache
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.AssemblyInfoInputs.cache
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.AssemblyInfo.cs
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.APIPredicciones.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.build.APIPredicciones.props
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIPredicciones.props
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIPredicciones.props
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\scopedcss\bundle\APIPredicciones.styles.css
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.csproj.CopyComplete
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\refint\APIPredicciones.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.pdb
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.genruntimeconfig.cache
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\ref\APIPredicciones.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\jonat\Downloads\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\appsettings.json
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.exe
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.deps.json
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.runtimeconfig.json
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\APIPredicciones.pdb
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\DnsClient.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Snappier.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.AssemblyInfo.cs
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.APIPredicciones.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.build.APIPredicciones.props
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIPredicciones.props
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIPredicciones.props
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\scopedcss\bundle\APIPredicciones.styles.css
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.csproj.CopyComplete
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\refint\APIPredicciones.dll
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.pdb
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\APIPredicciones.genruntimeconfig.cache
+C:\Users\andre\Downloads\PROYECTOS\PROYECTOS\APIPredicciones (2)\APIPredicciones\APIPredicciones\APIPredicciones\obj\Debug\net6.0\ref\APIPredicciones.dll
