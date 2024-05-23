@@ -1,0 +1,147 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1fb;
+    font-family: 'Archivo', sans-serif;
+}
+.chart-container{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.dash-container{
+    float: right;
+    width: 20%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.card{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    position: relative;
+    margin-left: 25px;
+    max-width: 250px;
+    height: 200px;
+    margin-bottom: 25px;
+}
+.chart-container2{
+    margin-left: 50px;
+    margin-top: 100px;
+    width: 60%;
+    float: left;
+    height: 50%;
+}
+.card .content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 20px;
+    position: relative;
+}
+.generar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+}
+.equipo{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-weight: bolder;
+}
+.generar input{
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    margin-right: 10px;
+    text-transform: uppercase;
+}
+.generar button{
+    padding: 10px;
+    border-radius: 15px;
+    background-color: #6659e6;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 10px;
+    transition: 0.5s ease-in-out;
+}
+.generar button .bi{
+    font-size: 15px;
+
+}
+.generar button:hover{
+    transform: scale(1.1);
+    background-color: #3c3488;
+}
+.navbar{
+    background-color: #6659e6;
+    min-height: 100vh;
+    float: left;
+    width: 7%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.navbar a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-wrap: wrap;
+    text-decoration: none;
+    margin-top: 40px;
+}
+.navbar .bi{
+    padding: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.equipo{
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.navbar img{
+    flex-wrap: wrap;
+    margin-right: 0;
+    width: auto;
+    padding: 20px;
+    margin-top: 5px;
+    height: auto;
+    right: 0;
+}
+.navbar .bi:hover{
+    background-color: #61c9f5;
+    border-radius: 20px;
+}
+.bis{
+    font-size: 40px;
+    color: #6659e6;
+}
+
+

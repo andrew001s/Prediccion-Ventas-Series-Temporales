@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="sytles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,800;1,800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="navbar">
+        <img src="logouce.png">
+        <a href="index.html"><i class="bi bi-house-door-fill"></i></a>
+        <a href="dashboard.html"><i class="bi bi-speedometer"></i></a> 
+        <a onclick="downloadDocument()"><i class="bi bi-file-earmark-arrow-down-fill"></i></a>  
+    </div>
+    <div>
+        <span class="equipo">MIKUTECH TEAM©</span>
+        <form class="generar">
+            <button onclick="uploadDocument()" style="margin-right: 50px;"><i class="bi bi-file-earmark-arrow-up-fill"> Agregar Datos</i></button> 
+            <button onclick="predecir()" style="margin-right: 50px; "><i class="bi bi-graph-up" > Predecir</i></button> 
+            <input type="text" id="columnName" required  placeholder="variedad"/>
+            <button type="button" onclick="generateChart()"><i class="bi bi-search"></i></button>
+        </form>
+    </div>
+    <div class="chart-container">
+        <canvas id="myChartindex" ></canvas>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

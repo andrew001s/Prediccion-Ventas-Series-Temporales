@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="sytles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,800;1,800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="navbar">
+        <img src="logouce.png">
+        <a href="index.html"><i class="bi bi-house-door-fill"></i></a>
+        <a href="dashboard.html"><i class="bi bi-speedometer"></i></a>
+        <a onclick="downloadDocument()"><i class="bi bi-file-earmark-arrow-down-fill"></i></a>  
+    </div>
+    <div>
+        <span class="equipo">MIKUTECH TEAM©</span>
+        <form class="generar">
+            <input type="text" id="columnName" required disabled placeholder="variedad"/>
+            <button type="button" disabled onclick="generateChart()"><i class="bi bi-search"></i></button>
+        </form>
+    </div>
+    <div class="dash-container">
+        <div class="card">
+            <div class="title"><h1>Predicción 2024: </h1></div>    
+            <div class="content">
+                <i class="bis bi bi-cash-coin"></i>
+                <h3 id="gananciasTotales" class="ganancias"></h3>
+            </div>
+            
+           
+        </div>
+        <div class="card">
+            <div class="title"><h1>Variedad más vendida: </h1></div>
+            <div class="content">
+                <h2 id="variedad"></h2>
+                <i class="bis bi bi-flower3"></i>
+                <h3 id="ventas"></h3>
+            </div>
+        </div>
+    </div>
+    <div class="chart-container2">
+        <canvas id="myChart2" ></canvas>
+    </div>
+    <script src="dashboard.js"></script>
+</body>
+</html>
